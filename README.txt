@@ -1,3 +1,9 @@
+NO LONGER USED.
+ SEE: https://github.com/JasonD94/HTML-Apps
+ALSO: https://github.com/isenseDev/HTML-Apps
+
+------------------------------------------------------------
+
 This Repository contains various HTML 5 Web Apps.
 All connect with the iSENSE website - isenseproject.org.
 
